@@ -1,0 +1,3 @@
+Open Banking – A Developer’s Perspective
+
+What are the typical milestones of an Open Banking roadmap? How do we move from just regulatory compliance towards ecosystem innovation? In this talk we look at the the central role of developers in the journey, common roadblocks in API adoption, and ultimately, about the need for great developer experience for engineers both inside and outside the organization.
