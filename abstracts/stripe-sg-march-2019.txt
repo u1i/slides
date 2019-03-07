@@ -1,0 +1,3 @@
+APIs for humans - Uli Hitzel
+
+What does a great API look like? How do we get people to use it? In this talk you’ll hear about use cases, API design & governance, and ultimately about creating a first-class developer experience for your API products.
